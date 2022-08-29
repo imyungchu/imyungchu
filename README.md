@@ -5,15 +5,15 @@
 
 - 👨‍💻 Some of my projects are available at [my github page](https://github.com/imyungchu)
 
-- 📝 I regularly write articles on [my website](https://imyungchu.github.io/)
+- 📝 I seldom write articles on [my website](https://imyungchu.github.io/)
 
-- 💬 Ask me about **how to be a artist or leader**
+- 💬 Ask me about **how to be happy**
 
-- 📫 How to reach me **yungchu.mg08@nycu.edu.tw**
+- 📫 How to reach me : **yungchu.mg08@nycu.edu.tw**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
+- 📄 Know about my experiences : [Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
 
-- ⚡ Fun fact **I've been scammed recently (Already call the police)**
+- ⚡ Fun fact **I've been scammed recently (Already called the police)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yungchu-chiang-30b747195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungchu chiang" height="30" width="40" /></a>
