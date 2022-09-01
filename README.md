@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently struggling on **how to get admission by recommendation and screening**
 
-- 👨‍💻 Some of my projects are available at [my github page](https://github.com/imyungchu)
+- 👨‍💻 Some of my projects are available at [my github page](https://github.com/imyungchu?tab=repositories)
 
 - 📝 I seldom write articles on [my website](https://imyungchu.github.io/)
 
