@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently about to graduate from [NYCU IEM](https://iem.nycu.edu.tw) and am looking forward to being a Master's degree student at [NTHU ISA](https://isa.site.nthu.edu.tw).
 
-- 📄 Check out about my experiences : [Chinese Resume](https://docs.google.com/document/d/1Qs0MsbnTR7OyfBkQ3vZb-KYmjUYYNy_yUDBXeB8aueY/edit?usp=sharing)
+- 📄 Check out about my experiences : [Chinese Resume](https://docs.google.com/document/d/1Qs0MsbnTR7OyfBkQ3vZb-KYmjUYYNy_yUDBXeB8aueY/edit?usp=sharing) / [English Resume](https://docs.google.com/document/d/1HszuEYAxZIKRLKM6Tnrq_QKE9uyeub6nok6wHBt7jWA/edit?usp=sharing)
 
 - 👨‍💻 Some of my projects are available on [my github page](https://github.com/imyungchu?tab=repositories)
 
