@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **yungchu.mg08@nycu.edu.tw**
 
-- ⚡ Fun fact **I have been the Director of NYCU IEM Student Association and the Leader of NCTU Yoga Club.b**
+- ⚡ Fun fact **I have been the Director of NYCU IEM Student Association and the Leader of NCTU Yoga Club**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
