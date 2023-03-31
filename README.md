@@ -1,19 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yung-Chu, Chiang</h1>
-<h3 align="center">An industrial engineering student from Taiwan</h3>
+<h3 align="center">I'm a Taiwanese student pursuing a Master's in Information System Applications and a Bachelor's in Industrial Engineering.</h3>
 
-- 🌱 I’m currently struggling on **how to get admission by recommendation and screening**
+- 🌱 I’m currently about to graduate from [NYCU IEM](https://iem.nycu.edu.tw) and am looking forward to being a Master's degree student at [NTHU ISA](https://isa.site.nthu.edu.tw).
 
-- 👨‍💻 Some of my projects are available at [my github page](https://github.com/imyungchu?tab=repositories)
+- 📄 Check out about my experiences : [Chinese Resume](https://docs.google.com/document/d/1Qs0MsbnTR7OyfBkQ3vZb-KYmjUYYNy_yUDBXeB8aueY/edit?usp=sharing)
+
+- 👨‍💻 Some of my projects are available on [my github page](https://github.com/imyungchu?tab=repositories)
 
 - 📝 I seldom write articles on [my website](https://imyungchu.github.io/)
 
-- 💬 Ask me about **how to be happy**
+- 💬 Ask me about **how to engage in interdisciplinary learning**
 
 - 📫 How to reach me : **yungchu.mg08@nycu.edu.tw**
 
-- 📄 Know about my experiences : [English Resume](https://drive.google.com/file/d/1wa9QD6iHnoGVBdq-oFPUpOmUbniOmA-N/view?usp=sharing) & [Chinese Resume](https://drive.google.com/file/d/1gtJ0tvcVW2PU6GGwVI82Ylmswy1W7g0j/view?usp=sharing)
+- ⚡ Fun fact **I have been the Director of NYCU IEM Student Association and the Leader of NCTU Yoga Club.b**
 
-- ⚡ Fun fact **I've been scammed recently (Already called the police)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/yungchu-chiang-30b747195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yungchu chiang" height="30" width="40" /></a>
