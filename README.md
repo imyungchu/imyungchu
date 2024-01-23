@@ -36,5 +36,4 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
  </p>
 
-[![Yung-Chu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=imyungchu&show_icons=true&count_private=true&hide=issues,contribs)](https://github.com/imyungchu)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imyungchu)](https://github.com/imyungchu)
