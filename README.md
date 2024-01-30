@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yung-Chu </h1>
-<h3 align="center">Future frontend developer creating user-friendly web interfaces.</h3>
+<h3 align="center">Future web developer creating user-friendly web interfaces.</h3>
 
 - 🌱 I’m currently postgraduate student at [NTHU ISA](https://isa.site.nthu.edu.tw) [@NLPLab](http://www.nlplab.cc)
 
